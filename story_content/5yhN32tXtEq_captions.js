@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.44.23192.0%0D%0A%0D%0A00:00:00.032%20--%3E%2000:00:04.632%0D%0AThat%E2%80%99s%20right!%20%0D%0AThe%20exclamation%20mark%20at%20the%20end%20makes%20the%20text%20more%20exciting%20and%20sincere!%20%20%0D%0A%0D%0A"}')
